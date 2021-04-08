@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi
 
-<!--
-**suryaprakash-rajkumar/suryaprakash-rajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![301](https://raw.githubusercontent.com/suryaprakash-rajkumar/suryaprakash-rajkumar.github.io/main/images/301.png)
+**Sorry this account has been permenantly moved to**
+**[https://github.com/suryaprakashrajkumar](https://github.com/suryaprakashrajkumar)**
 
-Here are some ideas to get you started:
+Thank you
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+
+
+Name: Suryaprakash Rajkumar
+Email: suryaprakash.rh@gmail.com
